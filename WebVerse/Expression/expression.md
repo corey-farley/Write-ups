@@ -1,5 +1,6 @@
 # Expression - SQLite Injection to RCE
 
+Challenge link: https://dashboard.webverselabs-pro.com/events/expression
 
 ## Overview
 Expression was built by two tutors who were better at teaching maths than at building websites. The catalogue is tidy and the courses are genuinely good, but the shop around them was wired together between lessons, the kind of storefront that hackers love to break.
